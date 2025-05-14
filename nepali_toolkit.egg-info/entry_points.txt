@@ -1,0 +1,3 @@
+[console_scripts]
+nepcli = nepali_toolkit.cli:app
+
